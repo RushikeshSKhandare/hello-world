@@ -4,19 +4,19 @@
   <title>Page Title</title>
 </head>
 <body>
-  <h2>This is Registration for the devops Engineer</h2>
+  <h2>This is The Registration form for the devops Engineer</h2>
   <form>
      
  
 <p>
-      <label>Username : <input type="text" /></label>
+      <label>Enter Username : <input type="text" /></label>
     </p>
  
  
      
  
 <p>
-      <label>Password : <input type="password" /></label>
+      <label>Enter Password : <input type="password" /></label>
     </p>
  
  
