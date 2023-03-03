@@ -4,7 +4,7 @@
   <title>Page Title</title>
 </head>
 <body>
-  <h2>Welcome To The DevOps Form</h2>
+  <h2>This is Registration for the devops Engineer</h2>
   <form>
      
  
